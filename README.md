@@ -1,5 +1,7 @@
 # Smart Home 499
 
+Final project for UAB CS degree. WOrked in a team that didn't help much :')
+
 ## Work Breakdown Structure
 
 | key | Task                                      | depends on |    date    |   name | complete? |
