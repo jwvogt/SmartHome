@@ -1,0 +1,26 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Jack Vogt", email = "jvogt37@uab.edu"},
+]
+dependencies = [
+    "flask~=2.0",
+    "python-decouple~=3.5",
+    "meteostat~=1.5",
+    "flask-cors~=3.0",
+]
+requires-python = ">=3.8"
+dynamic = ["classifiers"]
+license = {text = "\"\""}
+
+[project.urls]
+homepage = ""
+
+[build-system]
+requires = ["pdm-pep517"]
+build-backend = "pdm.pep517.api"
+
+[tool]
+[tool.pdm]
