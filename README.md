@@ -1,8 +1,5 @@
 # Smart Home 499
 
-link to repo: "https://gitlab.cs.uab.edu/CS499F2021/Team1/smart-home-499"
-(must be connected to VPN)
-
 ## Work Breakdown Structure
 
 | key | Task                                      | depends on |    date    |   name | complete? |
