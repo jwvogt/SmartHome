@@ -1,7 +1,6 @@
 # Smart Home 499
 
-link to repo: "https://gitlab.cs.uab.edu/CS499F2021/Team1/smart-home-499"
-(must be connected to VPN)
+Final project for UAB CS degree. Worked with a team that didn't help much :')
 
 ## Work Breakdown Structure
 
