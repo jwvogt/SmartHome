@@ -1,6 +1,8 @@
 # Smart Home 499
 
-Final project for UAB CS degree. Worked with a team that didn't help much :')
+Smart Home simulation that tracks inside tempurature and allows user to toggle lights & appliances on/off and open/close doors & windows.
+
+Weather API data was used to simulate outdoor tempuratures for demonstrating HVAC functionality.
 
 ## Work Breakdown Structure
 
@@ -38,8 +40,3 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
